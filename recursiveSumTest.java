@@ -4,6 +4,7 @@ public class recursiveSumTest {
         System.out.println("result : " + recursiveSum(1));
     }
 
+    
     public static int recursiveSum(int n) {
 
         if (n == 1) {                 // n이 1이면, 그냥 1을 반환함.
