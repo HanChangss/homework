@@ -1,0 +1,9 @@
+package abstractTest;
+
+public class Cat extends Animal{
+    
+    @Override
+    public void cry() {
+        System.out.println("냐옹냐옹!");
+    }
+}
