@@ -1,7 +1,5 @@
 package 클래스;
 
-import java.net.Socket;
-
 class Method {
     int a = 10 , b = 20;
 

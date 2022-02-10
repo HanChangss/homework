@@ -1,7 +1,3 @@
-
-
-import 베열.Array;
-
 class test {
 
     public static void main(String[] args) { //main문은 메소드영역(static 영역) 이다.
